@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="48"
+   height="48"
+   viewBox="0 0 24 24"
+   fill="none"
+   version="1.1"
+   id="svg18876"
+   sodipodi:docname="Sketcher_ViewSketch.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs18880" />
+  <sodipodi:namedview
+     id="namedview18878"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#505050"
+     showgrid="false"
+     inkscape:zoom="22.833333"
+     inkscape:cx="20.343066"
+     inkscape:cy="21.218978"
+     inkscape:window-width="2560"
+     inkscape:window-height="1363"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg18876" />
+  <rect
+     x="6"
+     y="4.5"
+     width="12"
+     height="15"
+     fill="#1293c3"
+     id="rect18842"
+     style="fill:#1c7ed6" />
+  <rect
+     x="10.5"
+     y="4.5"
+     width="3"
+     height="1.5"
+     fill="#f2f2f2"
+     id="rect18844" />
+  <rect
+     x="10.5"
+     y="18"
+     width="3"
+     height="1.5"
+     fill="#f2f2f2"
+     id="rect18846" />
+  <rect
+     x="6"
+     y="9"
+     width="1.5"
+     height="6"
+     fill="#f2f2f2"
+     id="rect18848" />
+  <rect
+     x="16.5"
+     y="9"
+     width="1.5"
+     height="6"
+     fill="#f2f2f2"
+     id="rect18850" />
+  <rect
+     x="6"
+     y="4.5"
+     width="1.5"
+     height="3"
+     fill="#f2f2f2"
+     id="rect18852" />
+  <rect
+     x="16.5"
+     y="4.5"
+     width="1.5"
+     height="3"
+     fill="#f2f2f2"
+     id="rect18854" />
+  <rect
+     x="6"
+     y="16.5"
+     width="1.5"
+     height="3"
+     fill="#f2f2f2"
+     id="rect18856" />
+  <rect
+     x="16.5"
+     y="16.5"
+     width="1.5"
+     height="3"
+     fill="#f2f2f2"
+     id="rect18858" />
+  <rect
+     x="4.5"
+     y="-9"
+     width="1.5"
+     height="3"
+     transform="rotate(90)"
+     fill="#f2f2f2"
+     id="rect18860" />
+  <rect
+     x="4.5"
+     y="-18"
+     width="1.5"
+     height="3"
+     transform="rotate(90)"
+     fill="#f2f2f2"
+     id="rect18862" />
+  <rect
+     x="18"
+     y="-9"
+     width="1.5"
+     height="3"
+     transform="rotate(90)"
+     fill="#f2f2f2"
+     id="rect18864" />
+  <rect
+     x="18"
+     y="-18"
+     width="1.5"
+     height="3"
+     transform="rotate(90)"
+     fill="#f2f2f2"
+     id="rect18866" />
+  <path
+     d="m 16.5,0.75 h 5.25 v 1.5 H 16.5 Z"
+     fill="#f2f2f2"
+     id="path18868" />
+  <path
+     d="m 20.25,6 h 1.5 V 0.75 h -1.5 z"
+     fill="#f2f2f2"
+     id="path18870" />
+  <path
+     d="M 7.5,23.25 H 2.25 v -1.5 H 7.5 Z"
+     fill="#f2f2f2"
+     id="path18872" />
+  <path
+     d="m 3.75,18 h -1.5 v 5.25 h 1.5 z"
+     fill="#f2f2f2"
+     id="path18874" />
+</svg>

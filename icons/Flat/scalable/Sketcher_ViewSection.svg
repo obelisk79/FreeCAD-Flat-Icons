@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="48"
+   height="48"
+   viewBox="0 0 24 24"
+   fill="none"
+   version="1.1"
+   id="svg18556"
+   sodipodi:docname="Sketcher_ViewSection.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs18560" />
+  <sodipodi:namedview
+     id="namedview18558"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#505050"
+     showgrid="false"
+     inkscape:zoom="16.145605"
+     inkscape:cx="-7.8349496"
+     inkscape:cy="19.045431"
+     inkscape:window-width="2560"
+     inkscape:window-height="1363"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg18556" />
+  <rect
+     opacity="0.8"
+     x="10.5"
+     y="8.25"
+     width="11.25"
+     height="13.5"
+     fill="#4d4d4d"
+     id="rect18516"
+     style="fill:#495057" />
+  <rect
+     x="15"
+     y="8.25"
+     width="2.25"
+     height="1.5"
+     fill="#f2f2f2"
+     id="rect18518" />
+  <rect
+     x="15"
+     y="20.25"
+     width="2.25"
+     height="1.5"
+     fill="#f2f2f2"
+     id="rect18520" />
+  <rect
+     x="10.5"
+     y="12.75"
+     width="1.5"
+     height="4.5"
+     fill="#f2f2f2"
+     id="rect18522" />
+  <rect
+     x="20.25"
+     y="12.75"
+     width="1.5"
+     height="4.5"
+     fill="#f2f2f2"
+     id="rect18524" />
+  <rect
+     x="10.5"
+     y="8.25"
+     width="1.5"
+     height="3"
+     fill="#f2f2f2"
+     id="rect18526" />
+  <rect
+     x="20.25"
+     y="8.25"
+     width="1.5"
+     height="3"
+     fill="#f2f2f2"
+     id="rect18528" />
+  <rect
+     x="10.5"
+     y="18.75"
+     width="1.5"
+     height="3"
+     fill="#f2f2f2"
+     id="rect18530" />
+  <rect
+     x="20.25"
+     y="18.75"
+     width="1.5"
+     height="3"
+     fill="#f2f2f2"
+     id="rect18532" />
+  <rect
+     x="8.25"
+     y="-13.5"
+     width="1.5"
+     height="3"
+     transform="rotate(90)"
+     fill="#f2f2f2"
+     id="rect18534" />
+  <rect
+     x="8.25"
+     y="-21.75"
+     width="1.5"
+     height="3"
+     transform="rotate(90)"
+     fill="#f2f2f2"
+     id="rect18536" />
+  <rect
+     x="20.25"
+     y="-13.5"
+     width="1.5"
+     height="3"
+     transform="rotate(90)"
+     fill="#f2f2f2"
+     id="rect18538" />
+  <rect
+     x="20.25"
+     y="-21.75"
+     width="1.5"
+     height="3"
+     transform="rotate(90)"
+     fill="#f2f2f2"
+     id="rect18540" />
+  <path
+     d="m 15.75,6.75 -4.5,-4.5 H 1.5 V 12 L 6,16.5 h 9.75 z"
+     fill="#4d4d4d"
+     id="path18542"
+     style="fill:#495057" />
+  <path
+     fill-rule="evenodd"
+     clip-rule="evenodd"
+     d="M 3.53035,3.75 6.90534,7.12499 H 14.0037 L 10.6287,3.75 Z M 6.375,7.65531 3,4.28031 v 7.09839 l 3.375,3.375 z M 14.25,15 H 7.125 V 7.87499 h 7.125 z m 1.5,-8.25 -4.5,-4.5 H 1.5 V 12 L 6,16.5 h 9.75 z"
+     fill="#f2f2f2"
+     id="path18544" />
+  <rect
+     x="8.625"
+     y="-13.5"
+     width="1.125"
+     height="3"
+     transform="rotate(90)"
+     fill="#7b7b7b"
+     id="rect18546" />
+  <rect
+     x="-12"
+     y="-11.625"
+     width="1.5"
+     height="2.625"
+     transform="scale(-1)"
+     fill="#7b7b7b"
+     id="rect18548" />
+  <rect
+     x="10.5"
+     y="12.75"
+     width="1.5"
+     height="2.25"
+     fill="#7b7b7b"
+     id="rect18550" />
+  <path
+     d="m 12.75,4.5 c 0,-1.65685 1.3431,-3 3,-3 h 3.75 c 1.6569,0 3,1.34315 3,3 0,1.65685 -1.3431,3 -3,3 h -3.75 c -1.6569,0 -3,-1.34315 -3,-3 z"
+     fill="#f2f2f2"
+     id="path18552" />
+  <path
+     d="m 14.25,4.5 c 0,-0.82843 0.6716,-1.5 1.5,-1.5 0.8284,0 1.5,0.67157 1.5,1.5 0,0.82843 -0.6716,1.5 -1.5,1.5 -0.8284,0 -1.5,-0.67157 -1.5,-1.5 z"
+     fill="#4d4d4d"
+     id="path18554" />
+</svg>
