@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="48"
+   height="48"
+   viewBox="0 0 48 48"
+   fill="none"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="Sketcher_CreatePentagon_Constr.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs12" />
+  <sodipodi:namedview
+     id="namedview10"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#505050"
+     showgrid="false"
+     inkscape:zoom="16.145605"
+     inkscape:cx="20.098349"
+     inkscape:cy="26.787476"
+     inkscape:window-width="2560"
+     inkscape:window-height="1369"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg8"
+     showguides="true">
+    <sodipodi:guide
+       position="-5.3211679,45.985401"
+       orientation="0,-1"
+       id="guide241"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="2.0145985,45.394161"
+       orientation="1,0"
+       id="guide243"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="46.018716,40.196019"
+       orientation="1,0"
+       id="guide245"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="-36.108898,1.9193479"
+       orientation="0,-1"
+       id="guide247"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="-37.595371,23.906756"
+       orientation="0,-1"
+       id="guide303"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="23.969371,53.512336"
+       orientation="1,0"
+       id="guide305"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <path
+     d="M 3.0590249,18.420919 22.578592,4.6267516 42.098207,18.420919 34.669923,40.658017 H 10.487334 Z"
+     id="path2"
+     style="stroke-width:3;stroke-dasharray:none;stroke:#868e96" />
+  <rect
+     x="18.517023"
+     y="20.164169"
+     width="8.1231451"
+     height="8.1975403"
+     rx="4.0615726"
+     id="rect4"
+     style="stroke-width:3;stroke-dasharray:none;stroke:#fd7e14;fill:#495057" />
+  <rect
+     x="38.373596"
+     y="12.87746"
+     width="8.1231451"
+     height="8.1975403"
+     rx="4.0615726"
+     id="rect6"
+     style="stroke-width:3;stroke-dasharray:none;stroke:#fd7e14;fill:#495057" />
+</svg>

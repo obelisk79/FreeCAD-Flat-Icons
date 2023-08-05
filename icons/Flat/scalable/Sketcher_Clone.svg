@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="48"
+   height="48"
+   viewBox="0 0 48 48"
+   fill="none"
+   version="1.1"
+   id="svg27"
+   sodipodi:docname="Sketcher_Clone.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview29"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#505050"
+     showgrid="false"
+     showguides="true"
+     inkscape:zoom="22.833333"
+     inkscape:cx="20.956205"
+     inkscape:cy="24.021898"
+     inkscape:window-width="2560"
+     inkscape:window-height="1369"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g20">
+    <sodipodi:guide
+       position="3.3284672,45.89781"
+       orientation="0,-1"
+       id="guide312"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="2.0145985,50.890511"
+       orientation="1,0"
+       id="guide314"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="46.029197,51.89781"
+       orientation="1,0"
+       id="guide316"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="6.4817518,2.0583942"
+       orientation="0,-1"
+       id="guide318"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <g
+     clip-path="url(#clip0)"
+     id="g20"
+     transform="matrix(2.0875912,0,0,2.0875912,-0.97382769,-1.0291968)">
+    <path
+       d="M 4.5,3.75 V 18"
+       stroke="#f2f2f2"
+       stroke-width="1.5"
+       id="path2"
+       style="stroke-width:1.43706297;stroke-dasharray:none" />
+    <circle
+       cx="4.5"
+       cy="18"
+       r="1.6875"
+       fill="#4D4D4D"
+       stroke="#f2f2f2"
+       stroke-width="1.125"
+       id="circle4"
+       style="fill:#495057;stroke-width:1.19755247;stroke-dasharray:none" />
+    <circle
+       cx="4.5"
+       cy="3.75"
+       r="1.6875"
+       fill="#4D4D4D"
+       stroke="#f2f2f2"
+       stroke-width="1.125"
+       id="circle6"
+       style="fill:#495057;stroke-width:1.19755247;stroke-dasharray:none" />
+    <path
+       d="M 19.5,6 V 20.25"
+       stroke="#f2f2f2"
+       stroke-width="1.5"
+       id="path8"
+       style="stroke-width:1.43706297;stroke-dasharray:none" />
+    <circle
+       cx="19.5"
+       cy="20.25"
+       r="1.6875"
+       fill="#4D4D4D"
+       stroke="#f2f2f2"
+       stroke-width="1.125"
+       id="circle10"
+       style="fill:#495057;stroke-width:1.19755247;stroke-dasharray:none" />
+    <circle
+       cx="19.5"
+       cy="6"
+       r="1.6875"
+       fill="#4D4D4D"
+       stroke="#f2f2f2"
+       stroke-width="1.125"
+       id="circle12"
+       style="fill:#495057;stroke-width:1.19755247;stroke-dasharray:none" />
+    <path
+       d="m 8.25,9 c 0,-0.82843 0.67157,-1.5 1.5,-1.5 H 15 c 0.8284,0 1.5,0.67157 1.5,1.5 v 6 c 0,0.8284 -0.6716,1.5 -1.5,1.5 H 9.75 c -0.82843,0 -1.5,-0.6716 -1.5,-1.5 z"
+       fill="#f2f2f2"
+       id="path14" />
+    <rect
+       x="9.75"
+       y="9"
+       width="3.75"
+       height="4.5"
+       rx="0.075000003"
+       fill="#4D4D4D"
+       id="rect16"
+       style="fill:#495057" />
+    <rect
+       x="11.4375"
+       y="10.6875"
+       width="4.125"
+       height="4.875"
+       rx="0.63749999"
+       fill="#4D4D4D"
+       stroke="#f2f2f2"
+       stroke-width="1.125"
+       id="rect18"
+       style="fill:#495057" />
+  </g>
+  <defs
+     id="defs25">
+    <clipPath
+       id="clip0">
+      <rect
+         width="24"
+         height="24"
+         fill="#4d4d4d"
+         id="rect22"
+         x="0"
+         y="0" />
+    </clipPath>
+  </defs>
+</svg>

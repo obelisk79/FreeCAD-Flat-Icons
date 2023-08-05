@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="48"
+   height="48"
+   viewBox="0 0 24 24"
+   fill="none"
+   version="1.1"
+   id="svg21"
+   sodipodi:docname="Sketcher_BSplineDegree.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview23"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#505050"
+     showgrid="false"
+     showguides="true"
+     inkscape:zoom="16.145605"
+     inkscape:cx="31.866257"
+     inkscape:cy="27.778457"
+     inkscape:window-width="2560"
+     inkscape:window-height="1369"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg21">
+    <sodipodi:guide
+       position="3.5923089,22.97805"
+       orientation="0,-1"
+       id="guide580"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="0.99098177,27.437468"
+       orientation="1,0"
+       id="guide582"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="-9.0736768,1.0525785"
+       orientation="0,-1"
+       id="guide584"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="22.97839,4.6139192"
+       orientation="1,0"
+       id="guide586"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="7.215586,11.984346"
+       orientation="0,-1"
+       id="guide1078"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="11.984686,9.0733372"
+       orientation="1,0"
+       id="guide1080"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="10.03369,25.950995"
+       orientation="1,0"
+       id="guide1138"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="4.2116725,10.00338"
+       orientation="0,-1"
+       id="guide1140"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <defs
+     id="defs19">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath514">
+      <g
+         id="g518">
+        <rect
+           width="24"
+           height="24"
+           fill="#4d4d4d"
+           id="rect516"
+           x="0"
+           y="0" />
+      </g>
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath520">
+      <g
+         id="g524">
+        <rect
+           width="24"
+           height="24"
+           fill="#4d4d4d"
+           id="rect522"
+           x="0"
+           y="0" />
+      </g>
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath526">
+      <g
+         id="g530">
+        <rect
+           width="24"
+           height="24"
+           fill="#4d4d4d"
+           id="rect528"
+           x="0"
+           y="0" />
+      </g>
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath532">
+      <g
+         id="g536">
+        <rect
+           width="24"
+           height="24"
+           fill="#4d4d4d"
+           id="rect534"
+           x="0"
+           y="0" />
+      </g>
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath538">
+      <g
+         id="g542">
+        <rect
+           width="24"
+           height="24"
+           fill="#4d4d4d"
+           id="rect540"
+           x="0"
+           y="0" />
+      </g>
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath544">
+      <g
+         id="g548">
+        <rect
+           width="24"
+           height="24"
+           fill="#4d4d4d"
+           id="rect546"
+           x="0"
+           y="0" />
+      </g>
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath559">
+      <g
+         id="g563">
+        <rect
+           width="32.458267"
+           height="32.458267"
+           fill="#4d4d4d"
+           id="rect561"
+           x="-3.3922703"
+           y="-0.61210364"
+           style="stroke-width:1.35243" />
+      </g>
+    </clipPath>
+  </defs>
+  <path
+     style="fill:none;fill-rule:evenodd;stroke:#f1f3f5;stroke-width:1.5;stroke-linecap:round;stroke-dashoffset:7.5;paint-order:markers fill stroke"
+     d="M 3.2693231,7.535152 C 12,7.535152 16.452843,12 16.452842,20.629717"
+     id="path926"
+     sodipodi:nodetypes="cc" />
+  <text
+     xml:space="preserve"
+     style="font-weight:bold;font-size:12px;font-family:'HarmonyOS Sans';-inkscape-font-specification:'HarmonyOS Sans Bold';text-align:center;text-anchor:middle;fill:#f03e3e;fill-rule:evenodd;stroke-width:1.5;stroke-linecap:round;stroke-dashoffset:7.5;paint-order:markers fill stroke"
+     x="4.0497127"
+     y="22.94862"
+     id="text642"><tspan
+       sodipodi:role="line"
+       id="tspan640"
+       style="font-size:12px;fill:#f03e3e;stroke-width:1.5"
+       x="4.0497127"
+       y="22.94862">2</tspan></text>
+  <circle
+     style="fill:#f1f3f5;fill-rule:evenodd;stroke-width:1.19804;stroke-linecap:round;stroke-dashoffset:7.5;paint-order:markers fill stroke"
+     id="path848"
+     cx="3.2693231"
+     cy="7.535152"
+     r="2.25" />
+  <circle
+     style="fill:#f1f3f5;fill-rule:evenodd;stroke-width:1.19804;stroke-linecap:round;stroke-dashoffset:7.5;paint-order:markers fill stroke"
+     id="path848-3"
+     cx="16.452843"
+     cy="20.629717"
+     r="2.25" />
+  <rect
+     style="fill:#f1f3f5;fill-rule:evenodd;stroke:none;stroke-width:2.17226;stroke-linecap:round;stroke-dashoffset:7.5;paint-order:markers fill stroke"
+     id="rect375"
+     width="7.5"
+     height="7.5"
+     x="15.478391"
+     y="1.02195"
+     rx="2"
+     ry="2" />
+  <rect
+     style="fill:#495057;fill-rule:evenodd;stroke:none;stroke-width:0.945734;stroke-linecap:round;stroke-dashoffset:7.5;paint-order:markers fill stroke"
+     id="rect984"
+     width="5"
+     height="1.5"
+     x="16.72839"
+     y="4.0219498" />
+  <circle
+     style="fill:none;fill-rule:evenodd;stroke:#f03e3e;stroke-width:0.854117;stroke-linecap:round;stroke-dasharray:none;stroke-dashoffset:7.5;paint-order:markers fill stroke"
+     id="path582"
+     cx="8.5159216"
+     cy="14.010169"
+     r="1.0729414" />
+</svg>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="48"
+   height="48"
+   viewBox="0 0 48 48"
+   fill="none"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="Sketcher_CreateTriangle.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs12" />
+  <sodipodi:namedview
+     id="namedview10"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#505050"
+     showgrid="false"
+     showguides="true"
+     inkscape:zoom="16.145605"
+     inkscape:cx="20.438999"
+     inkscape:cy="22.947422"
+     inkscape:window-width="2560"
+     inkscape:window-height="1369"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg8">
+    <sodipodi:guide
+       position="1.9927007,48.635036"
+       orientation="1,0"
+       id="guide295"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="-6.2846715,45.963504"
+       orientation="0,-1"
+       id="guide297"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="46.018716,56.299472"
+       orientation="1,0"
+       id="guide299"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="-29.791389,2.0432206"
+       orientation="0,-1"
+       id="guide301"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <path
+     d="M 43.454263,8.2265708 24.004383,42.881087 4.5545507,8.2265708 Z"
+     stroke="#f2f2f2"
+     id="path2"
+     style="stroke-width:3;stroke-dasharray:none" />
+  <circle
+     style="fill:#343a40;fill-rule:evenodd;stroke:#37b24d;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:6.6;paint-order:markers fill stroke"
+     id="path355"
+     cx="41.909554"
+     cy="9.2110977"
+     r="4.5" />
+  <circle
+     style="fill:#343a40;fill-rule:evenodd;stroke:#37b24d;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:6.6;paint-order:markers fill stroke"
+     id="path355-3"
+     cx="23.399918"
+     cy="19.7577"
+     r="4.5" />
+</svg>

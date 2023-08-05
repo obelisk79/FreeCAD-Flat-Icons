@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="48"
+   height="48"
+   viewBox="0 0 24 24"
+   fill="none"
+   version="1.1"
+   id="svg28"
+   sodipodi:docname="Sketcher_BSplineDecreaseKnotMultiplicity.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview30"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#505050"
+     showgrid="false"
+     showguides="true"
+     inkscape:zoom="16.145605"
+     inkscape:cx="1.7651863"
+     inkscape:cy="31.184957"
+     inkscape:window-width="2560"
+     inkscape:window-height="1369"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg28">
+    <sodipodi:guide
+       position="-26.973285,23.039986"
+       orientation="0,-1"
+       id="guide259"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="0.99098177,30.503318"
+       orientation="1,0"
+       id="guide261"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="22.97839,28.738132"
+       orientation="1,0"
+       id="guide263"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="-28.707503,1.0216103"
+       orientation="0,-1"
+       id="guide265"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="12.75,12.75"
+       orientation="1,0"
+       id="guide1038"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="12.75,12.75"
+       orientation="0,-1"
+       id="guide1040"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="2.7809422,19.237094"
+       orientation="0,-1"
+       id="guide1089"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="19.23124,11.210142"
+       orientation="1,0"
+       id="guide1091"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <defs
+     id="defs26">
+    <mask
+       id="path-3-inside-1"
+       fill="#4d4d4d">
+      <path
+         fill-rule="evenodd"
+         clip-rule="evenodd"
+         d="m 6.75,16.5 v -2.25 h -1.5 l -1.5,2.25 h 1.5 V 21 h 1.5 z"
+         id="path6" />
+    </mask>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath335">
+      <g
+         id="g339">
+        <rect
+           width="24"
+           height="24"
+           fill="#4d4d4d"
+           id="rect337"
+           x="0"
+           y="0" />
+      </g>
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath341">
+      <g
+         id="g345">
+        <rect
+           width="24"
+           height="24"
+           fill="#4d4d4d"
+           id="rect343"
+           x="0"
+           y="0" />
+      </g>
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath347">
+      <g
+         id="g351">
+        <rect
+           width="24"
+           height="24"
+           fill="#4d4d4d"
+           id="rect349"
+           x="0"
+           y="0" />
+      </g>
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath353">
+      <g
+         id="g357">
+        <rect
+           width="24"
+           height="24"
+           fill="#4d4d4d"
+           id="rect355"
+           x="0"
+           y="0" />
+      </g>
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath359">
+      <g
+         id="g363">
+        <rect
+           width="24"
+           height="24"
+           fill="#4d4d4d"
+           id="rect361"
+           x="0"
+           y="0" />
+      </g>
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath365">
+      <g
+         id="g369">
+        <rect
+           width="24"
+           height="24"
+           fill="#4d4d4d"
+           id="rect367"
+           x="0"
+           y="0" />
+      </g>
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath371">
+      <g
+         id="g375">
+        <rect
+           width="24"
+           height="24"
+           fill="#4d4d4d"
+           id="rect373"
+           x="0"
+           y="0" />
+      </g>
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath377">
+      <g
+         id="g381">
+        <rect
+           width="24"
+           height="24"
+           fill="#4d4d4d"
+           id="rect379"
+           x="0"
+           y="0" />
+      </g>
+    </clipPath>
+  </defs>
+  <rect
+     style="fill:#f1f3f5;fill-rule:evenodd;stroke:none;stroke-width:2.17226;stroke-linecap:round;stroke-dashoffset:7.5;paint-order:markers fill stroke"
+     id="rect375"
+     width="7.5"
+     height="7.5"
+     x="15.47839"
+     y="0.96001399"
+     rx="2"
+     ry="2" />
+  <rect
+     style="fill:#495057;fill-rule:evenodd;stroke:none;stroke-width:0.945734;stroke-linecap:round;stroke-dashoffset:7.5;paint-order:markers fill stroke"
+     id="rect984"
+     width="5"
+     height="1.5"
+     x="16.72839"
+     y="3.9600139" />
+  <path
+     style="fill:none;fill-rule:evenodd;stroke:#f1f3f5;stroke-width:1.5;stroke-linecap:round;stroke-dashoffset:7.5;paint-order:markers fill stroke"
+     d="M 0.99098175,6.762906 C 11.827497,8.0210637 16.032678,11.981661 17.228389,23.030297"
+     id="path1147"
+     sodipodi:nodetypes="cc" />
+  <circle
+     style="fill:#f1f3f5;fill-rule:evenodd;stroke:none;stroke-width:2.17469;stroke-linecap:round;stroke-dashoffset:7.5;paint-order:markers fill stroke"
+     id="path1304"
+     cx="12.75"
+     cy="11.254512"
+     r="2" />
+  <text
+     xml:space="preserve"
+     style="font-weight:bold;font-size:12px;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif Bold';text-align:center;text-anchor:middle;fill:#f03e3e;fill-rule:evenodd;stroke-width:1.5;stroke-linecap:round;stroke-dashoffset:7.5;paint-order:markers fill stroke"
+     x="9.2559986"
+     y="22.97839"
+     id="text381"><tspan
+       sodipodi:role="line"
+       id="tspan379"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12px;font-family:'HarmonyOS Sans';-inkscape-font-specification:'HarmonyOS Sans Bold';fill:#f03e3e;stroke-width:1.5"
+       x="9.2559986"
+       y="22.97839">1</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-weight:bold;font-size:9.4758px;font-family:'HarmonyOS Sans';-inkscape-font-specification:'HarmonyOS Sans Bold';text-align:center;text-anchor:middle;fill:#f03e3e;fill-rule:evenodd;stroke:none;stroke-width:0.78965;stroke-linecap:round;stroke-dashoffset:7.5;paint-order:markers fill stroke"
+     x="3.5372043"
+     y="22.97839"
+     id="text949"><tspan
+       sodipodi:role="line"
+       id="tspan947"
+       style="stroke:none;stroke-width:0.78965"
+       x="3.5372043"
+       y="22.97839">x</tspan></text>
+</svg>

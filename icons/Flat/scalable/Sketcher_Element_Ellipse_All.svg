@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="48"
+   height="48"
+   viewBox="0 0 24 24"
+   fill="none"
+   version="1.1"
+   id="svg29"
+   sodipodi:docname="Sketcher_Element_Ellipse_All.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview31"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#505050"
+     showgrid="false"
+     showguides="true"
+     inkscape:zoom="16.145605"
+     inkscape:cx="23.876467"
+     inkscape:cy="23.876467"
+     inkscape:window-width="2560"
+     inkscape:window-height="1363"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g22">
+    <sodipodi:guide
+       position="2.2773723,22.981752"
+       orientation="0,-1"
+       id="guide314"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="0.98540146,21.99635"
+       orientation="1,0"
+       id="guide316"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="23.009358,29.388463"
+       orientation="1,0"
+       id="guide318"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="-11.829845,0.95967395"
+       orientation="0,-1"
+       id="guide320"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <g
+     clip-path="url(#clip0)"
+     id="g22"
+     transform="matrix(1.0777129,0,0,1.0777752,-1.2201404,-0.35326826)"
+     style="stroke-width:0.927863">
+    <path
+       d="M 4.40543,4.13613 C 3.01654,5.52502 2.49079,7.6103 2.86938,9.94607 c 0.37839,2.33453 1.65757,4.85643 3.78098,6.97983 2.12341,2.1234 4.64534,3.4026 6.97984,3.781 2.3357,0.3786 4.421,-0.1472 5.8099,-1.5361 1.3889,-1.3889 1.9147,-3.4742 1.5361,-5.8099 C 20.5978,11.0264 19.3186,8.50447 17.1952,6.38106 15.0718,4.25765 12.5499,2.97847 10.2154,2.60009 7.8796,2.22149 5.79431,2.74724 4.40543,4.13613 Z"
+       stroke="#f2f2f2"
+       stroke-width="1.39179"
+       id="path2" />
+    <path
+       d="m 4.5,3.75 15,15.375"
+       stroke-width="1.5"
+       stroke-linecap="round"
+       id="path4"
+       style="stroke:#fcc419;stroke-width:1.39179613;stroke-dasharray:none" />
+    <path
+       d="M 6.75,17.25 17.25,6.75"
+       stroke-width="1.5"
+       stroke-linecap="round"
+       id="path6"
+       style="stroke:#fcc419;stroke-width:1.39179613;stroke-dasharray:none" />
+    <circle
+       r="0.9375"
+       transform="matrix(-1,0,0,1,6.59558,17.25)"
+       fill="#f2f2f2"
+       stroke="#f2f2f2"
+       stroke-width="1.04385"
+       id="circle8"
+       cx="0"
+       cy="0" />
+    <circle
+       r="0.9375"
+       transform="matrix(-1,0,0,1,4.34558,3.75)"
+       fill="#f2f2f2"
+       stroke="#f2f2f2"
+       stroke-width="1.04385"
+       id="circle10"
+       cx="0"
+       cy="0" />
+    <circle
+       r="0.9375"
+       transform="matrix(-1,0,0,1,7.5,6.75)"
+       fill="#f2f2f2"
+       stroke="#f2f2f2"
+       stroke-width="1.04385"
+       id="circle12"
+       cx="0"
+       cy="0" />
+    <circle
+       r="0.9375"
+       transform="matrix(-1,0,0,1,16.5,16.125)"
+       fill="#f2f2f2"
+       stroke="#f2f2f2"
+       stroke-width="1.04385"
+       id="circle14"
+       cx="0"
+       cy="0" />
+    <circle
+       r="0.9375"
+       transform="matrix(-1,0,0,1,19.5,19.125)"
+       fill="#f2f2f2"
+       stroke="#f2f2f2"
+       stroke-width="1.04385"
+       id="circle16"
+       cx="0"
+       cy="0" />
+    <path
+       d="m 12.75,4.5 c 0,-1.65685 1.3431,-3 3,-3 h 3.75 c 1.6569,0 3,1.34315 3,3 0,1.65685 -1.3431,3 -3,3 h -3.75 c -1.6569,0 -3,-1.34315 -3,-3 z"
+       fill="#f2f2f2"
+       id="path18"
+       style="stroke-width:0.905307" />
+    <path
+       d="m 14.25,4.5 c 0,-0.82843 0.6716,-1.5 1.5,-1.5 0.8284,0 1.5,0.67157 1.5,1.5 0,0.82843 -0.6716,1.5 -1.5,1.5 -0.8284,0 -1.5,-0.67157 -1.5,-1.5 z"
+       fill="#4d4d4d"
+       id="path20"
+       style="stroke-width:0.905307" />
+  </g>
+  <defs
+     id="defs27">
+    <clipPath
+       id="clip0">
+      <rect
+         width="24"
+         height="24"
+         fill="#4d4d4d"
+         id="rect24"
+         x="0"
+         y="0" />
+    </clipPath>
+  </defs>
+</svg>

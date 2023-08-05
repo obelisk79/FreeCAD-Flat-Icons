@@ -1,0 +1,15 @@
+<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M11 24.7858V11H24.7858L29 15.2142V29H15.2142L11 24.7858Z" fill="#326276" stroke="#F2F2F2" stroke-width="2"/>
+<path d="M30 15.6H15.6V29.2" stroke="#F2F2F2"/>
+<path d="M4 17.7858V4H17.7858L22 8.21421V22H8.21421L4 17.7858Z" fill="#326276" stroke="#F2F2F2" stroke-width="2"/>
+<path d="M23 8.59999H8.59998V22.2" stroke="#F2F2F2"/>
+<rect x="15" y="15" width="1" height="6" fill="#F2F2F2"/>
+<rect x="15" y="15" width="1" height="6" fill="#F2F2F2"/>
+<rect width="6" height="1" transform="matrix(-1 0 0 1 22 15)" fill="#F2F2F2"/>
+<rect width="6" height="1" transform="matrix(-1 0 0 1 22 15)" fill="#F2F2F2"/>
+<rect x="16" y="16" width="5" height="5" fill="#4D4D4D"/>
+<rect x="21" y="15" width="2" height="7" fill="#F2F2F2"/>
+<rect x="14" y="16" width="2" height="7" fill="#F2F2F2"/>
+<rect width="8" height="2" transform="matrix(-1 0 0 1 23 21)" fill="#F2F2F2"/>
+<rect width="8" height="2" transform="matrix(-1 0 0 1 22 14)" fill="#F2F2F2"/>
+</svg>

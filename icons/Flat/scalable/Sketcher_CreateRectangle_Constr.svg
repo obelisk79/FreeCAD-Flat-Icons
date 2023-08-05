@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="48"
+   height="48"
+   viewBox="0 0 24 24"
+   fill="none"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="Sketcher_CreateRectangle_Constr.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs12" />
+  <sodipodi:namedview
+     id="namedview10"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#505050"
+     showgrid="false"
+     showguides="true"
+     inkscape:zoom="16"
+     inkscape:cx="18.3125"
+     inkscape:cy="26.96875"
+     inkscape:window-width="2560"
+     inkscape:window-height="1369"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg8">
+    <sodipodi:guide
+       position="1.0375004,25.225"
+       orientation="1,0"
+       id="guide137"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="-7.8613139,45.963504"
+       orientation="0,-1"
+       id="guide189"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="22.992701,31.357664"
+       orientation="1,0"
+       id="guide306"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="-14.400204,1.0525785"
+       orientation="0,-1"
+       id="guide308"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="6.21875,23"
+       orientation="0,-1"
+       id="guide293"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <rect
+     x="3.749999"
+     y="3.7574043"
+     width="16.492594"
+     height="16.492596"
+     stroke="#f2f2f2"
+     stroke-width="1.5"
+     id="rect2"
+     style="stroke-width:1.5;stroke-linecap:round;stroke-dasharray:0.15, 2.25;stroke-dashoffset:0;stroke:#adb5bd" />
+  <circle
+     style="fill:#343a40;fill-rule:evenodd;stroke:#37b24d;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers fill stroke"
+     id="path970"
+     cx="4.0375004"
+     cy="19.947422"
+     r="2.25" />
+  <circle
+     style="fill:#343a40;fill-rule:evenodd;stroke:#37b24d;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers fill stroke"
+     id="path970-3"
+     cx="19.992701"
+     cy="4.0182481"
+     r="2.25" />
+</svg>
