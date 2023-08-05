@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="48"
+   height="48"
+   viewBox="0 0 24 24"
+   fill="none"
+   version="1.1"
+   id="svg15559"
+   sodipodi:docname="Sketcher_LeaveSketch.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs15563" />
+  <sodipodi:namedview
+     id="namedview15561"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#505050"
+     showgrid="false"
+     inkscape:zoom="45.666667"
+     inkscape:cx="22.937956"
+     inkscape:cy="22.083942"
+     inkscape:window-width="2560"
+     inkscape:window-height="1363"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg15559" />
+  <rect
+     x="9.75"
+     y="3"
+     width="4.5"
+     height="1.5"
+     fill="#f2f2f2"
+     id="rect15533" />
+  <rect
+     x="9.75"
+     y="19.5"
+     width="4.5"
+     height="1.5"
+     fill="#f2f2f2"
+     id="rect15535" />
+  <rect
+     x="5.25"
+     y="7.5"
+     width="1.5"
+     height="9"
+     fill="#f2f2f2"
+     id="rect15537" />
+  <rect
+     x="5.25"
+     y="3"
+     width="1.5"
+     height="3"
+     fill="#f2f2f2"
+     id="rect15539" />
+  <rect
+     x="5.25"
+     y="18"
+     width="1.5"
+     height="3"
+     fill="#f2f2f2"
+     id="rect15541" />
+  <rect
+     x="17.25"
+     y="18"
+     width="1.5"
+     height="3"
+     fill="#f2f2f2"
+     id="rect15543" />
+  <rect
+     x="3"
+     y="-8.25"
+     width="1.5"
+     height="3"
+     transform="rotate(90)"
+     fill="#f2f2f2"
+     id="rect15545" />
+  <rect
+     x="3"
+     y="-18.75"
+     width="1.5"
+     height="3"
+     transform="rotate(90)"
+     fill="#f2f2f2"
+     id="rect15547" />
+  <rect
+     x="19.5"
+     y="-8.25"
+     width="1.5"
+     height="3"
+     transform="rotate(90)"
+     fill="#f2f2f2"
+     id="rect15549" />
+  <rect
+     x="19.5"
+     y="-18.75"
+     width="1.5"
+     height="3"
+     transform="rotate(90)"
+     fill="#f2f2f2"
+     id="rect15551" />
+  <path
+     d="m 18.75,3 h -1.5 v 4.25322 l 1.5,-1.5 z"
+     fill="#f2f2f2"
+     id="path15553" />
+  <path
+     d="m 17.25,15.1187 1.5,-1.5 V 16.5 h -1.5 z"
+     fill="#f2f2f2"
+     id="path15555" />
+  <path
+     fill-rule="evenodd"
+     clip-rule="evenodd"
+     d="m 12.9857,10.3013 -1.5902,1.5902 3.1052,3.1052 v 0 l 0.2788,0.2788 6.8711,-6.87109 -1.5925,-1.59254 -5.2809,5.28083 z"
+     fill="#b7e041"
+     id="path15557"
+     style="fill:#37b24d" />
+</svg>

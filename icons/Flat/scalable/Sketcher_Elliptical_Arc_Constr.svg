@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="48"
+   height="48"
+   viewBox="0 0 24 24"
+   fill="none"
+   version="1.1"
+   id="svg12990"
+   sodipodi:docname="Sketcher_Elliptical_Arc_Constr.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview12992"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#505050"
+     showgrid="false"
+     inkscape:zoom="16.145605"
+     inkscape:cx="-2.6942317"
+     inkscape:cy="9.3214221"
+     inkscape:window-width="2560"
+     inkscape:window-height="1363"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g12983" />
+  <g
+     clip-path="url(#clip0)"
+     id="g12983">
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#495057;stroke-width:1.5;stroke-linecap:round;stroke-dasharray:0.15, 2.25;stroke-dashoffset:0;paint-order:markers fill stroke"
+       d="M 20.3748,12.75 C 18.07323,20.523832 0.99360126,26.362681 3,12.75"
+       id="path13842"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#f1f3f5;stroke-width:1.5;stroke-linecap:round;stroke-dasharray:0.15, 2.25;stroke-dashoffset:0;paint-order:markers fill stroke"
+       d="m 3,12.75 c 1.7059132,-8.6088263 11.017748,-12.72372269 16.5,-9 2.053283,1.5442261 2.367503,6.528921 0.8748,9"
+       id="path13528"
+       sodipodi:nodetypes="ccc" />
+    <rect
+       x="10.3125"
+       y="10.3125"
+       width="3.375"
+       height="3.375"
+       rx="1.6875"
+       fill="#4d4d4d"
+       stroke="#8AD9FB"
+       stroke-width="1.125"
+       id="rect12971"
+       style="stroke:#37b24d" />
+    <rect
+       x="17.8125"
+       y="2.0625"
+       width="3.375"
+       height="3.375"
+       rx="1.6875"
+       fill="#4d4d4d"
+       stroke="#8AD9FB"
+       stroke-width="1.125"
+       id="rect12977"
+       style="stroke:#37b24d" />
+    <rect
+       x="18.5625"
+       y="11.0625"
+       width="3.375"
+       height="3.375"
+       rx="1.6875"
+       fill="#4d4d4d"
+       stroke="#8AD9FB"
+       stroke-width="1.125"
+       id="rect12979"
+       style="stroke:#37b24d" />
+    <rect
+       x="1.3125"
+       y="11.0625"
+       width="3.375"
+       height="3.375"
+       rx="1.6875"
+       fill="#4d4d4d"
+       stroke="#8AD9FB"
+       stroke-width="1.125"
+       id="rect12981"
+       style="stroke:#37b24d" />
+  </g>
+  <defs
+     id="defs12988">
+    <clipPath
+       id="clip0">
+      <rect
+         width="24"
+         height="24"
+         fill="#4d4d4d"
+         id="rect12985"
+         x="0"
+         y="0" />
+    </clipPath>
+  </defs>
+</svg>

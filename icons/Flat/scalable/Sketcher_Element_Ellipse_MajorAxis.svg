@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="48"
+   height="48"
+   id="svg2816"
+   version="1.1"
+   sodipodi:docname="Sketcher_Element_Ellipse_MajorAxis.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <sodipodi:namedview
+     id="namedview33"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#505050"
+     showgrid="false"
+     inkscape:zoom="22.693708"
+     inkscape:cx="27.981324"
+     inkscape:cy="24.522216"
+     inkscape:window-width="2560"
+     inkscape:window-height="1369"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2816"
+     showguides="true">
+    <sodipodi:guide
+       position="5.0234188,45.928941"
+       orientation="0,-1"
+       id="guide253"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="2.0269935,43.373167"
+       orientation="1,0"
+       id="guide255"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="46.00394,40.420807"
+       orientation="1,0"
+       id="guide257"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="8.6367551,1.9960597"
+       orientation="0,-1"
+       id="guide259"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="22.517254,25.526811"
+       orientation="-0.70710678,-0.70710678"
+       id="guide25518"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="29.259211,29.096082"
+       orientation="0.70710678,-0.70710678"
+       id="guide25520"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2818">
+    <linearGradient
+       id="linearGradient3602">
+      <stop
+         style="stop-color:#ff2600;stop-opacity:1"
+         offset="0"
+         id="stop3604" />
+      <stop
+         style="stop-color:#ff5f00;stop-opacity:1"
+         offset="1"
+         id="stop3606" />
+    </linearGradient>
+    <linearGradient
+       xlink:href="#linearGradient3602-7"
+       id="linearGradient3608-5"
+       x1="3.909091"
+       y1="14.363636"
+       x2="24.81818"
+       y2="14.363636"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       id="linearGradient3602-7">
+      <stop
+         style="stop-color:#c51900;stop-opacity:1"
+         offset="0"
+         id="stop3604-1" />
+      <stop
+         style="stop-color:#ff5f00;stop-opacity:1"
+         offset="1"
+         id="stop3606-3" />
+    </linearGradient>
+    <linearGradient
+       xlink:href="#linearGradient3602-5"
+       id="linearGradient3608-1"
+       x1="3.909091"
+       y1="14.363636"
+       x2="24.81818"
+       y2="14.363636"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       id="linearGradient3602-5">
+      <stop
+         style="stop-color:#c51900;stop-opacity:1"
+         offset="0"
+         id="stop3604-9" />
+      <stop
+         style="stop-color:#ff5f00;stop-opacity:1"
+         offset="1"
+         id="stop3606-9" />
+    </linearGradient>
+    <linearGradient
+       y2="14.363636"
+       x2="24.81818"
+       y1="14.363636"
+       x1="3.909091"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient3686"
+       xlink:href="#linearGradient3602-5" />
+    <linearGradient
+       xlink:href="#linearGradient3602-58"
+       id="linearGradient3608-8"
+       x1="3.909091"
+       y1="14.363636"
+       x2="24.81818"
+       y2="14.363636"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       id="linearGradient3602-58">
+      <stop
+         style="stop-color:#c51900;stop-opacity:1"
+         offset="0"
+         id="stop3604-2" />
+      <stop
+         style="stop-color:#ff5f00;stop-opacity:1"
+         offset="1"
+         id="stop3606-2" />
+    </linearGradient>
+    <linearGradient
+       y2="14.363636"
+       x2="24.81818"
+       y1="14.363636"
+       x1="3.909091"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient3726"
+       xlink:href="#linearGradient3602-58" />
+  </defs>
+  <metadata
+     id="metadata2821">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>[Abdullah Tahiri]</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:date>2014-11-11</dc:date>
+        <dc:relation>http://www.freecad.org/wiki/index.php?title=Artwork</dc:relation>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>FreeCAD</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:identifier>FreeCAD/src/Mod/Sketcher/Gui/Resources/icons/Constraint_Ellipse_Axis_Angle.svg</dc:identifier>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>FreeCAD LGPL2+</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <cc:license>https://www.gnu.org/copyleft/lesser.html</cc:license>
+        <dc:contributor>
+          <cc:Agent>
+            <dc:title>[agryson] Alexander Gryson</dc:title>
+          </cc:Agent>
+        </dc:contributor>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <path
+     id="path4"
+     style="fill:none;stroke:#f1f3f5;stroke-width:3.09797;stroke-dasharray:none;stroke-linecap:round"
+     d="M 37.556641,4.9433594 C 35.605446,4.0150219 33.335553,3.5598802 30.861328,3.6054688 29.934499,3.6225459 28.98021,3.708629 28.001953,3.8671875 22.788472,4.7122146 17.119915,7.5773714 12.333984,12.363281 7.5480514,17.149211 4.6828948,22.81777 3.8378906,28.03125 3.2559358,31.621734 3.637368,34.905492 4.9140625,37.587891 m 5.7050785,5.607421 c 2.64995,1.211566 5.867484,1.565603 9.380859,0.996094 5.21348,-0.845027 10.880201,-3.710049 15.666016,-8.496094 4.786045,-4.785816 7.651066,-10.452718 8.496093,-15.666015 0.569392,-3.512659 0.214874,-6.729257 -0.996093,-9.378906"
+     sodipodi:nodetypes="csccccccccc" />
+  <path
+     style="fill:none;fill-opacity:0.589634;fill-rule:evenodd;stroke:#fd7e14;stroke-width:3.05154;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:9;paint-order:markers fill stroke"
+     d="M 3.6228173,44.478172 44.478169,3.6855677"
+     id="path27504" />
+</svg>
