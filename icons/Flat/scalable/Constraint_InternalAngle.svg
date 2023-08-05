@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="48"
+   height="48"
+   viewBox="0 0 24 24"
+   fill="none"
+   version="1.1"
+   id="svg1858"
+   sodipodi:docname="Constraint_InternalAngle.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1862" />
+  <sodipodi:namedview
+     id="namedview1860"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#505050"
+     showgrid="false"
+     showguides="true"
+     inkscape:zoom="16.145605"
+     inkscape:cx="22.575803"
+     inkscape:cy="23.257103"
+     inkscape:window-width="2560"
+     inkscape:window-height="1369"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1858">
+    <sodipodi:guide
+       position="0.97549768,23.3187"
+       orientation="1,0"
+       id="guide1981"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="1.3471158,22.993534"
+       orientation="0,-1"
+       id="guide1983"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="23.566785,0.97515803"
+       orientation="0,-1"
+       id="guide1985"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="22.993874,1.7648466"
+       orientation="1,0"
+       id="guide1987"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="12.046622,19.943168"
+       orientation="1,0"
+       id="guide1989"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <path
+     d="m 21.854892,17.56812 -4.334203,1.161364 -1.161364,-4.334202 z"
+     id="path1850"
+     style="stroke-width:1.05761;fill:#fd7e14" />
+  <path
+     d="m 16.359325,9.210928 1.161364,-4.3341817 4.334203,1.1613435 z"
+     id="path1852"
+     style="stroke-width:1.05761;fill:#fd7e14" />
+  <path
+     d="M 21.118582,1.7039294 3.3691752,11.318158 c -0.553893,0.300044 -0.553893,1.094946 0,1.39499 l 17.7494068,9.614229"
+     stroke="#f2f2f2"
+     stroke-width="1.58642"
+     id="path1854" />
+  <path
+     d="m 18.342348,6.4631867 0.647788,1.2956601 c 1.33989,2.6796942 1.33989,5.8339182 0,8.5135912 l -0.647788,1.295682"
+     id="path1856"
+     style="stroke:#fd7e14;opacity:1;stroke-width:1.5;stroke-dasharray:none" />
+</svg>

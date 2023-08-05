@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="48"
+   height="48"
+   viewBox="0 0 40 40"
+   fill="none"
+   version="1.1"
+   id="svg8"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs12" />
+  <rect
+     x="-38.391571"
+     y="-9.4958801"
+     width="3.9660518"
+     height="19.830259"
+     transform="matrix(-0.7008065,-0.71335142,0.7008065,-0.71335142,0,0)"
+     fill="#f2f2f2"
+     id="rect2"
+     style="stroke-width:1.98302" />
+  <rect
+     x="6.3360977"
+     y="18.50301"
+     width="3.9764709"
+     height="19.882353"
+     transform="matrix(0.70120974,-0.71295504,0.70120974,0.71295504,0,0)"
+     fill="#f2f2f2"
+     id="rect4"
+     style="stroke-width:1.98823" />
+  <rect
+     x="-29.39451"
+     y="-21.917027"
+     width="23.58429"
+     height="3.9798961"
+     transform="scale(-1)"
+     fill="#f2f2f2"
+     id="rect6"
+     style="stroke-width:1.97761" />
+</svg>

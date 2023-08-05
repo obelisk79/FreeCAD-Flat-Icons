@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="48"
+   height="48"
+   viewBox="0 0 24 24"
+   fill="none"
+   version="1.1"
+   id="svg3137"
+   sodipodi:docname="Constraint_Length.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs3141" />
+  <sodipodi:namedview
+     id="namedview3139"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#505050"
+     showgrid="false"
+     showguides="true"
+     inkscape:zoom="11.416667"
+     inkscape:cx="24.744525"
+     inkscape:cy="34.29197"
+     inkscape:window-width="2560"
+     inkscape:window-height="1369"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg3137">
+    <sodipodi:guide
+       position="9.665694,22.988321"
+       orientation="0,-1"
+       id="guide3260"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="0.99635036,22.988321"
+       orientation="1,0"
+       id="guide3262"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="23.00365,3.0547445"
+       orientation="1,0"
+       id="guide3264"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="23.562044,0.98540146"
+       orientation="0,-1"
+       id="guide3266"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <rect
+     x="10.606596"
+     y="-10.606607"
+     width="12.75"
+     height="1.5"
+     transform="rotate(45)"
+     fill="#f2f2f2"
+     id="rect3125" />
+  <rect
+     x="10.606616"
+     y="-7.6066165"
+     width="2.25"
+     height="15"
+     transform="rotate(45)"
+     fill="#f2f2f2"
+     id="rect3127" />
+  <rect
+     x="10.606623"
+     y="8.8934021"
+     width="12.75"
+     height="1.5"
+     transform="rotate(45)"
+     fill="#f2f2f2"
+     id="rect3129" />
+  <path
+     d="m 15.5303,6.89428 h 4.2426 v 4.24262 z"
+     id="path3131"
+     style="fill:#fd7e14" />
+  <path
+     d="M 11.2877,19.6222 H 7.04506 v -4.2426 z"
+     id="path3133"
+     style="fill:#fd7e14" />
+  <path
+     style="fill:#fd7e14;fill-rule:evenodd;stroke:#fd7e14;stroke-width:1.5;stroke-linecap:round;stroke-dasharray:none;stroke-dashoffset:3.01568;paint-order:markers fill stroke"
+     d="M 9.16638,17.5009 17.6516,9.01559"
+     id="path8208" />
+</svg>

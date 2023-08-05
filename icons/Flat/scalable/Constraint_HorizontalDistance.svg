@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="48"
+   height="48"
+   viewBox="0 0 24 24"
+   fill="none"
+   version="1.1"
+   id="svg12"
+   sodipodi:docname="Constraint_HorizontalDistance.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs16" />
+  <sodipodi:namedview
+     id="namedview14"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#505050"
+     showgrid="false"
+     showguides="true"
+     inkscape:zoom="22.833333"
+     inkscape:cx="19.248175"
+     inkscape:cy="25.029197"
+     inkscape:window-width="2560"
+     inkscape:window-height="1369"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg12">
+    <sodipodi:guide
+       position="2.3540146,23.00365"
+       orientation="0,-1"
+       id="guide245"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="0.99635036,21.131387"
+       orientation="1,0"
+       id="guide247"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="23.00365,0"
+       orientation="1,0"
+       id="guide249"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="21.405109,0.98540146"
+       orientation="0,-1"
+       id="guide251"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <rect
+     x="7.2841501"
+     y="-23.003651"
+     width="9.4316998"
+     height="1.57195"
+     transform="rotate(90)"
+     fill="#f2f2f2"
+     id="rect2"
+     style="stroke-width:1.04796" />
+  <rect
+     x="7.2841501"
+     y="-2.5683002"
+     width="9.4316998"
+     height="1.57195"
+     transform="rotate(90)"
+     fill="#f2f2f2"
+     id="rect4"
+     style="stroke-width:1.04796" />
+  <path
+     d="M 18.2878,8.8561 21.4317,12 18.2878,15.1439 Z"
+     id="path6"
+     style="fill:#fd7e14;stroke-width:1.04796;opacity:1" />
+  <path
+     d="M 5.7122003,15.1439 2.5683003,12 l 3.1439,-3.1439 z"
+     id="path8"
+     style="fill:#fd7e14;stroke-width:1.04796;opacity:1" />
+  <path
+     style="fill:#fd7e14;fill-rule:evenodd;stroke:#fd7e14;stroke-width:1.5;stroke-linecap:round;stroke-dashoffset:7.71;paint-order:markers fill stroke"
+     d="M 4.1402503,12 H 19.85975"
+     id="path5659" />
+</svg>

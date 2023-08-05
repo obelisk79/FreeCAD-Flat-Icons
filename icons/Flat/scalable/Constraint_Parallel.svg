@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="48"
+   height="48"
+   viewBox="0 0 24 24"
+   fill="none"
+   version="1.1"
+   id="svg5170"
+   sodipodi:docname="Constraint_Parallel.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs5174" />
+  <sodipodi:namedview
+     id="namedview5172"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#505050"
+     showgrid="false"
+     showguides="true"
+     inkscape:zoom="16.145605"
+     inkscape:cx="11.365322"
+     inkscape:cy="35.830184"
+     inkscape:window-width="2560"
+     inkscape:window-height="1369"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5170">
+    <sodipodi:guide
+       position="-3.4684362,22.999728"
+       orientation="0,-1"
+       id="guide5293"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="1.0064659,21.058023"
+       orientation="1,0"
+       id="guide5295"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="22.37451,0.94418985"
+       orientation="0,-1"
+       id="guide5297"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="23.024842,5.2177987"
+       orientation="1,0"
+       id="guide5299"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <path
+     style="fill:#fd7e14;fill-rule:evenodd;stroke:#fd7e14;stroke-width:1.5;stroke-linecap:square;stroke-dasharray:none;stroke-dashoffset:3.75;paint-order:markers fill stroke"
+     d="M 5.1868982,21.940682 21.909715,5.2178644"
+     id="path8987" />
+  <path
+     style="fill:#fd7e14;fill-rule:evenodd;stroke:#f1f3f5;stroke-width:1.5;stroke-linecap:square;stroke-dasharray:none;stroke-dashoffset:7.5;paint-order:markers fill stroke"
+     d="M 2.1868982,18.940682 18.909715,2.2178644"
+     id="path9352" />
+</svg>

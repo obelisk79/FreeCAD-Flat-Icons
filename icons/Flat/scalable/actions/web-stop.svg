@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="48"
+   height="48"
+   viewBox="0 0 32 32"
+   fill="none"
+   version="1.1"
+   id="svg6"
+   sodipodi:docname="web-zoom-in.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview6"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#505050"
+     showgrid="false" />
+  <defs
+     id="defs10" />
+  <rect
+     x="7.9624205"
+     y="-2.8999667"
+     width="29.274939"
+     height="5.8549881"
+     fill="#f2f2f2"
+     id="rect2"
+     style="stroke-width:1.46375"
+     transform="rotate(45)" />
+  <rect
+     x="-14.609942"
+     y="-25.527384"
+     width="29.27494"
+     height="5.8549876"
+     transform="rotate(135)"
+     fill="#f2f2f2"
+     id="rect4"
+     style="stroke-width:1.46375" />
+</svg>

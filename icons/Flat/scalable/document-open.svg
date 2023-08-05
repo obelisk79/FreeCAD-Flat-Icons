@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="48"
+   height="48"
+   viewBox="0 0 32 32"
+   fill="none"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="document-open.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs12" />
+  <sodipodi:namedview
+     id="namedview10"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#505050"
+     showgrid="false"
+     showguides="true"
+     inkscape:zoom="17.125"
+     inkscape:cx="23.854015"
+     inkscape:cy="22.452555"
+     inkscape:window-width="2560"
+     inkscape:window-height="1369"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg8">
+    <sodipodi:guide
+       position="2.43309,30.618005"
+       orientation="0,-1"
+       id="guide241"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="1.3430657,29.274939"
+       orientation="1,0"
+       id="guide243"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="30.63747,2.8807786"
+       orientation="1,0"
+       id="guide245"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="9.323601,1.3625304"
+       orientation="0,-1"
+       id="guide247"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <path
+     d="M 3.5964814,5.9151226 V 9.2952462 H 28.384055 V 8.1685384 c 0,-1.2445277 -1.008855,-2.2534158 -2.253416,-2.2534158 H 15.990268 L 12.610144,3.6617069 H 5.8498972 c -1.2445277,0 -2.2534158,1.008888 -2.2534158,2.2534157 z"
+     fill="#f2f2f2"
+     id="path2"
+     style="stroke-width:1.12671" />
+  <path
+     d="M 30.63747,11.548662 H 1.3430657 l 1.977023,13.839127 c 0.1585954,1.110145 1.1093565,1.934783 2.2307689,1.934783 H 26.429667 c 1.121412,0 2.07224,-0.824638 2.230769,-1.934783 z"
+     fill="#f2f2f2"
+     id="path4"
+     style="stroke-width:1.12671" />
+  <rect
+     x="3.5964813"
+     y="9.2952471"
+     width="24.787573"
+     height="2.2534156"
+     id="rect6"
+     style="stroke-width:1.12671;fill:#343a40" />
+</svg>

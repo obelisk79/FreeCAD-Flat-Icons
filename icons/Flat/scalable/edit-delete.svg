@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="48"
+   height="48"
+   viewBox="0 0 48 48"
+   fill="none"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="edit-delete.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs8" />
+  <sodipodi:namedview
+     id="namedview6"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#505050"
+     showgrid="false"
+     showguides="true"
+     inkscape:zoom="17.125"
+     inkscape:cx="25.927007"
+     inkscape:cy="28.233577"
+     inkscape:window-width="2560"
+     inkscape:window-height="1369"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4">
+    <sodipodi:guide
+       position="2.6861314,46.014599"
+       orientation="0,-1"
+       id="guide237"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="1.9854015,43.737226"
+       orientation="1,0"
+       id="guide239"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="45.956204,2.8029197"
+       orientation="1,0"
+       id="guide241"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="44.583942,2.0145985"
+       orientation="0,-1"
+       id="guide243"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="24,52.729927"
+       orientation="1,0"
+       id="guide299"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <path
+     fill-rule="evenodd"
+     clip-rule="evenodd"
+     d="m 19.29614,1.985401 c -1.735801,0 -3.142858,1.4071043 -3.142858,3.1428572 V 8.2711154 H 5.1532855 V 12.985401 H 8.2961427 L 11.16805,43.140487 c 0.153623,1.613072 1.508383,2.844914 3.128699,2.844914 h 20.144503 c 1.648743,0 3.017302,-1.274271 3.134845,-2.918928 l 2.148614,-30.081072 h 3.142857 V 8.2711154 h -11 V 5.1282582 c 0,-1.7357529 -1.407057,-3.1428572 -3.142857,-3.1428572 z m 9.428571,6.2857144 H 19.29614 V 5.1282582 h 9.428571 z M 32.653283,41.271116 33.438997,16.128258 H 30.29614 l -0.785715,25.142858 z m -18.07143,-25.142858 0.785714,25.142858 h 3.142858 L 17.72471,16.128258 Z m 11.000001,0 h -3.142857 v 25.142858 h 3.142857 z"
+     fill="#f2f2f2"
+     id="path2"
+     style="stroke-width:1.57143" />
+</svg>

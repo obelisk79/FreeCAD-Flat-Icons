@@ -1,0 +1,11 @@
+[Icon Theme]
+Name=Modern icons for Dark Themes
+Comment=WIP of modern icon theme
+Inherits=FreeCAD-default
+Directories=scalable
+
+[scalable]
+Size=48
+Type=Scalable
+MinSize=1
+MaxSize=256

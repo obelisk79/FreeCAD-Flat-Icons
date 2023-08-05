@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="48"
+   height="48"
+   viewBox="0 0 30 30"
+   fill="none"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="DrawStyleWireFrame.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs8" />
+  <sodipodi:namedview
+     id="namedview6"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#505050"
+     showgrid="false"
+     showguides="true"
+     inkscape:zoom="4.28125"
+     inkscape:cx="-50.919708"
+     inkscape:cy="68.087591"
+     inkscape:window-width="2560"
+     inkscape:window-height="1369"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4">
+    <sodipodi:guide
+       position="1.2408759,27.354015"
+       orientation="1,0"
+       id="guide237"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="2.4817518,28.759124"
+       orientation="0,-1"
+       id="guide239"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="28.740876,2.2810219"
+       orientation="1,0"
+       id="guide295"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="27.372263,1.2408759"
+       orientation="0,-1"
+       id="guide297"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <path
+     fill-rule="evenodd"
+     clip-rule="evenodd"
+     d="m 4.2186969,3.440876 4.949989,4.95 H 20.490876 v -4.95 z M 21.590876,3.802149 v 4.588727 h 4.58876 z m -1.1,5.688727 H 9.4908759 v 11 H 20.490876 Z m -12.1000001,11 V 9.168686 l -4.95,-4.95 v 16.27219 z m -4.588727,1.1 h 4.588727 v 4.58865 z m 5.688727,0 H 20.813066 l 4.95,4.95 H 9.4908759 Z M 21.590876,20.813066 V 9.490876 h 4.95 v 16.27219 z m 7.15,-12.97219 -6.6,-6.6 H 1.2408759 v 20.9 l 6.6,6.6 H 28.740876 Z"
+     fill="#f2f2f2"
+     id="path2"
+     style="stroke-width:1.1" />
+</svg>

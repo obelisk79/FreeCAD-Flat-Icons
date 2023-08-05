@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="48"
+   height="48"
+   viewBox="0 0 24 24"
+   fill="none"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="Constraint_Vertical.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs8" />
+  <sodipodi:namedview
+     id="namedview6"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#505050"
+     showgrid="false"
+     showguides="true"
+     inkscape:zoom="22.833333"
+     inkscape:cx="18.021898"
+     inkscape:cy="25.160584"
+     inkscape:window-width="2560"
+     inkscape:window-height="1369"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4">
+    <sodipodi:guide
+       position="1.1386861,23.00365"
+       orientation="0,-1"
+       id="guide291"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="3.4270073,0.98540146"
+       orientation="0,-1"
+       id="guide293"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <rect
+     x="0.99634999"
+     y="-13.312922"
+     width="22.018248"
+     height="2.5405669"
+     transform="rotate(90)"
+     id="rect2"
+     style="fill:#fd7e14;stroke-width:1.12914" />
+</svg>

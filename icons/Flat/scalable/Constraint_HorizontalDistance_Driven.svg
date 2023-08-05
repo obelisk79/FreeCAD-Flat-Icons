@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="48"
+   height="48"
+   viewBox="0 0 32 32"
+   fill="none"
+   version="1.1"
+   id="svg1338"
+   sodipodi:docname="Constraint_HorizontalDistance_Driven.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1342" />
+  <sodipodi:namedview
+     id="namedview1340"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#505050"
+     showgrid="false"
+     showguides="true"
+     inkscape:zoom="22.833333"
+     inkscape:cx="26.934307"
+     inkscape:cy="25.072993"
+     inkscape:window-width="2560"
+     inkscape:window-height="1369"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1338">
+    <sodipodi:guide
+       position="2.6715328,30.686131"
+       orientation="0,-1"
+       id="guide1461"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="1.3430657,29.489051"
+       orientation="1,0"
+       id="guide1463"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="30.715328,2.5985401"
+       orientation="1,0"
+       id="guide1465"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="15.138686,1.3284672"
+       orientation="0,-1"
+       id="guide1467"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="7.6371219,16"
+       orientation="0,-1"
+       id="guide1469"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <rect
+     x="9.6800404"
+     y="-30.715328"
+     width="12.588113"
+     height="2.0980186"
+     transform="rotate(90)"
+     fill="#f2f2f2"
+     id="rect1322"
+     style="stroke-width:1.39868" />
+  <rect
+     x="9.6800404"
+     y="-3.4410844"
+     width="12.588113"
+     height="2.0980186"
+     transform="rotate(90)"
+     fill="#f2f2f2"
+     id="rect1324"
+     style="stroke-width:1.39868" />
+  <path
+     d="m 24.421272,11.778065 4.196037,4.196037 -4.196037,4.196038 z"
+     id="path1326"
+     style="stroke-width:1.39868;fill:#228be6;opacity:1" />
+  <path
+     d="M 7.6371219,20.17014 3.4410844,15.974102 7.6371219,11.778065 Z"
+     id="path1328"
+     style="stroke-width:1.39868;fill:#228be6;opacity:1" />
+  <path
+     style="opacity:1;fill:#228be6;fill-rule:evenodd;stroke:#228be6;stroke-width:2;stroke-linecap:round;stroke-dashoffset:0.8;paint-order:markers fill stroke;stroke-dasharray:0.2,3"
+     d="M 5.5391032,15.974103 H 26.519291"
+     id="path6586" />
+</svg>
