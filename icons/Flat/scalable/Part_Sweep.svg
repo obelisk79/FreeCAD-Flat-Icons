@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="48"
+   height="48"
+   viewBox="0 0 48 48"
+   version="1.1"
+   id="svg5"
+   inkscape:export-filename="bitmap.svg"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   sodipodi:docname="PartDesign_AdditivePipe.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="px"
+     showgrid="false"
+     showguides="true"
+     inkscape:zoom="22.833333"
+     inkscape:cx="24.021898"
+     inkscape:cy="24.021898"
+     inkscape:window-width="2560"
+     inkscape:window-height="1369"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <sodipodi:guide
+       position="46,39.625"
+       orientation="1,0"
+       id="guide502"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="2,29.25"
+       orientation="1,0"
+       id="guide504"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="14.1875,46"
+       orientation="0,-1"
+       id="guide506"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="6.875,1.8749999"
+       orientation="0,-1"
+       id="guide508"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="-10.120466,24.002564"
+       orientation="0,-1"
+       id="guide2149"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="opacity:0.8;fill:none;fill-opacity:0.8;stroke:#a6e3a1;stroke-width:13.3507;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers fill stroke"
+       d="M 38.296809,15.787068 30.284322,28.178232 18.772123,19.192645 c 0,0 -8.246916,13.064174 -8.22997,12.745157"
+       id="path564" />
+    <path
+       style="opacity:1;fill:none;fill-opacity:0.479878;stroke:#f2f2f2;stroke-width:2.54991;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       d="M 5.0280568,28.453924 13.719709,15.379935 c 0.858824,-0.911463 1.725524,-1.819895 3.69975,-2.301641 1.739895,-0.358484 3.070737,0.08378 4.231037,0.438959 l 6.871182,5.192998 4.453713,-6.529184 c 1.751576,-2.3633606 4.997716,-3.4268733 8.189239,-1.907758 3.325932,2.066568 4.457152,4.95613 2.827363,8.881036 l -8.579254,13.107643 c -1.065288,1.055173 -2.229532,1.78707 -3.459762,2.303403 -1.674271,0.246041 -3.314911,0.245286 -4.964489,-0.674223 l -6.584479,-4.923431 -4.853404,7.291311 C 12.306264,39.009225 9.5179496,38.824356 6.9406322,37.281473 3.8227133,34.918516 3.4458951,31.460299 5.0280568,28.453924 Z"
+       id="path1272"
+       sodipodi:nodetypes="ccccccccccccccc" />
+    <ellipse
+       style="fill:#3d7737;fill-opacity:0.377439;stroke:#f2f2f2;stroke-width:1.39493;stroke-linecap:round;stroke-dasharray:none;paint-order:markers fill stroke"
+       id="path234"
+       cx="41.374634"
+       cy="-4.4008732"
+       rx="5.6269102"
+       ry="4.6949954"
+       transform="matrix(0.89080606,0.45438371,-0.43097923,0.90236185,0,0)" />
+  </g>
+</svg>

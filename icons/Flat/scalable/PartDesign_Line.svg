@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="48"
+   height="48"
+   viewBox="0 0 12.7 12.7"
+   version="1.1"
+   id="svg305"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="PartDesign_Line.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview307"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="px"
+     showgrid="false"
+     showguides="true"
+     inkscape:zoom="22.092841"
+     inkscape:cx="20.753329"
+     inkscape:cy="24.691256"
+     inkscape:window-width="2560"
+     inkscape:window-height="1363"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <sodipodi:guide
+       position="0.53891893,12.149105"
+       orientation="1,0"
+       id="guide426"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="-3.5568649,12.149105"
+       orientation="0,-1"
+       id="guide428"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="12.169986,10.898813"
+       orientation="1,0"
+       id="guide430"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="-3.3173454,0.50845648"
+       orientation="0,-1"
+       id="guide432"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <defs
+     id="defs302" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:#495057;fill-opacity:0.993902;fill-rule:evenodd;stroke:#f1f3f5;stroke-width:0.79375;stroke-linecap:round;stroke-dasharray:none;stroke-dashoffset:7.5;paint-order:markers fill stroke"
+       d="M 10.612839,2.108042 2.0960658,10.634397"
+       id="path1118" />
+    <ellipse
+       style="fill:#495057;fill-opacity:0.993902;fill-rule:evenodd;stroke:#15aabf;stroke-width:0.79375;stroke-linecap:round;stroke-dasharray:none;stroke-dashoffset:7.5;paint-order:markers fill stroke"
+       id="path486"
+       cx="10.612839"
+       cy="2.108042"
+       rx="1.1602719"
+       ry="1.1602718" />
+    <ellipse
+       style="fill:#495057;fill-opacity:0.993902;fill-rule:evenodd;stroke:#15aabf;stroke-width:0.79375;stroke-linecap:round;stroke-dasharray:none;stroke-dashoffset:7.5;paint-order:markers fill stroke"
+       id="path486-3"
+       cx="2.0960658"
+       cy="10.634397"
+       rx="1.1602719"
+       ry="1.1602718" />
+  </g>
+</svg>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="48"
+   height="48"
+   viewBox="0 0 24 24"
+   fill="none"
+   version="1.1"
+   id="svg7562"
+   sodipodi:docname="Part_Offset2D.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs7566" />
+  <sodipodi:namedview
+     id="namedview7564"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#505050"
+     showgrid="false"
+     showguides="true"
+     inkscape:zoom="16.145605"
+     inkscape:cx="17.837672"
+     inkscape:cy="21.522885"
+     inkscape:window-width="2560"
+     inkscape:window-height="1369"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg7562">
+    <sodipodi:guide
+       position="1.3905109,22.992701"
+       orientation="0,-1"
+       id="guide7685"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="1.0072993,23.748175"
+       orientation="1,0"
+       id="guide7687"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="23.014599,10.521898"
+       orientation="1,0"
+       id="guide7689"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="9.4160584,0.97445255"
+       orientation="0,-1"
+       id="guide7691"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="12.021898,-1.0291971"
+       orientation="1,0"
+       id="guide7693"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <path
+     d="M 7.8850579,23.025547 V 6.4471016 h 1.0361528 c 4.0057713,0 7.2530733,3.2473169 7.2530733,7.2530704 v 9.325375"
+     stroke="#f2f2f2"
+     stroke-width="2.07231"
+     id="path7558"
+     style="stroke-width:1.5;stroke-dasharray:none" />
+  <path
+     d="M 3.22237,23.025547 V 1.7844137 h 6.2169172 c 6.2947008,0 11.3976848,5.1029147 11.3976848,11.3976813 v 9.843452"
+     stroke="#8ad9fb"
+     stroke-width="1.55423"
+     id="path7560"
+     style="stroke:#a6e3a1;stroke-width:1.5;stroke-dasharray:none" />
+</svg>

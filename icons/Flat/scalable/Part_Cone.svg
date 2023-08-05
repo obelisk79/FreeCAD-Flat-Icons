@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="35.636715"
+   height="43.909824"
+   viewBox="0 0 35.636715 43.909825"
+   version="1.1"
+   id="svg1387"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1384">
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter4488"
+       x="-0.039183512"
+       y="-0.072519653"
+       width="1.0785224"
+       height="1.1043193">
+      <feGaussianBlur
+         stdDeviation="0.046496357"
+         id="feGaussianBlur4490" />
+    </filter>
+  </defs>
+  <ellipse
+     style="fill:#181825;stroke:none;stroke-width:1.09894;stroke-linecap:round;stroke-dasharray:4.39576, 4.39576;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+     id="path1568-3-6-1-8-9"
+     cx="17.938454"
+     cy="38.081623"
+     rx="16.238148"
+     ry="4.5226698" />
+  <path
+     style="opacity:0.7;fill:#89b4fa;stroke:none;stroke-width:0.979697;stroke-linecap:round;stroke-dasharray:2.93909, 2.93909;stroke-dashoffset:0;paint-order:markers fill stroke"
+     d="M 17.77779,4.5919723 2.1451396,37.776192 c -0.1319693,0.345177 -0.1648602,0.706722 0.2660654,1.144814 2.4385345,2.036133 8.131015,2.87219 15.818895,3.097066 7.984312,-0.311155 12.868355,-1.371747 14.899492,-3.121957 0.264861,-0.272117 0.476621,-0.593901 0.443435,-1.144805 z"
+     id="path2708" />
+  <ellipse
+     style="opacity:0.6;fill:none;stroke:#cdd6f4;stroke-width:1.47041;stroke-linecap:round;stroke-dasharray:4.41122, 4.41122;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+     id="path1568-3-6-5"
+     cx="17.801113"
+     cy="38.090401"
+     rx="16.192314"
+     ry="4.468399" />
+  <path
+     style="fill:none;stroke:#f2f2f2;stroke-width:2.4;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke;filter:url(#filter4488)"
+     d="M 7.4745342,39.8677 23.850444,3.9661126 40.418092,39.924136 c 0.369877,1.940492 -1.872104,3.06412 -4.770159,3.905291 -3.216724,0.886549 -7.121413,1.363861 -11.797489,1.382299 -4.211346,-0.0099 -8.18463,-0.404244 -11.795478,-1.384825 C 9.3846748,43.123646 6.5961891,41.829313 7.4745342,39.8677 Z"
+     id="path1633-3"
+     transform="matrix(0.99679045,0,0,0.96402717,-5.9913749,-0.93992172)" />
+</svg>

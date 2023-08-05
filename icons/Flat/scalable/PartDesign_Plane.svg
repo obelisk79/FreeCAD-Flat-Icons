@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="48"
+   height="48"
+   viewBox="0 0 32 32"
+   fill="none"
+   version="1.1"
+   id="svg1598"
+   sodipodi:docname="PartDesign_Plane.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1600"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#505050"
+     showgrid="false"
+     showguides="true"
+     inkscape:zoom="12.109204"
+     inkscape:cx="20.604162"
+     inkscape:cy="22.586125"
+     inkscape:window-width="2560"
+     inkscape:window-height="1363"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g1591">
+    <sodipodi:guide
+       position="-6.2481752,30.656934"
+       orientation="0,-1"
+       id="guide1719"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="1.3430657,32"
+       orientation="1,0"
+       id="guide1721"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="30.63747,18.725061"
+       orientation="1,0"
+       id="guide1723"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="5.6836983,1.3041363"
+       orientation="0,-1"
+       id="guide1725"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="15.910762,40.093018"
+       orientation="1,0"
+       id="guide19974"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="16.681526,16.034183"
+       orientation="0,-1"
+       id="guide19976"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <g
+     clip-path="url(#clip0)"
+     id="g1591"
+     transform="matrix(1.2206002,0,0,1.2206002,-3.5393351,-3.5393303)"
+     style="fill:#495057">
+    <path
+       d="M 27,26.8195 5,23.1529 V 5.18046 l 22,3.66667 z"
+       stroke="#f2f2f2"
+       stroke-width="2"
+       id="path1587"
+       style="fill:#15aabf" />
+    <path
+       style="fill:#15aabf;fill-rule:evenodd;stroke:#f1f3f5;stroke-width:0.819269;stroke-linecap:round;paint-order:markers fill stroke"
+       d="M 16,7.0137951 V 24.9862"
+       id="path19978" />
+    <path
+       style="fill:#15aabf;fill-rule:evenodd;stroke:#f1f3f5;stroke-width:0.819269;stroke-linecap:round;paint-order:markers fill stroke"
+       d="m 5,14.166662 22,3.666671"
+       id="path19980" />
+  </g>
+  <defs
+     id="defs1596">
+    <clipPath
+       id="clip0">
+      <rect
+         width="32"
+         height="32"
+         fill="#4d4d4d"
+         id="rect1593"
+         x="0"
+         y="0" />
+    </clipPath>
+  </defs>
+</svg>

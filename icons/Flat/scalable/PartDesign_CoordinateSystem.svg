@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="48"
+   height="48"
+   viewBox="0 0 32 32"
+   fill="none"
+   version="1.1"
+   id="svg9265"
+   sodipodi:docname="PartDesign_CoordinateSystem.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview9267"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#505050"
+     showgrid="false"
+     showguides="true"
+     inkscape:zoom="17.125"
+     inkscape:cx="32.992701"
+     inkscape:cy="22.218978"
+     inkscape:window-width="2560"
+     inkscape:window-height="1369"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg9265">
+    <sodipodi:guide
+       position="-5.5279805,30.656934"
+       orientation="0,-1"
+       id="guide9386"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="1.323601,29.041363"
+       orientation="1,0"
+       id="guide9388"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="30.63747,7.0072993"
+       orientation="1,0"
+       id="guide9390"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="9.9659367,1.3625304"
+       orientation="0,-1"
+       id="guide9392"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="-11.250608,16"
+       orientation="0,-1"
+       id="guide9394"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <g
+     clip-path="url(#clip0)"
+     id="g9258"
+     transform="matrix(1.197462,0,0,1.197462,-4.3133316,-2.8644391)">
+    <path
+       d="M 14.3481,20 V 8"
+       stroke="#f2f2f2"
+       stroke-width="2"
+       id="path9246" />
+    <path
+       d="m 14.3481,20 12,2"
+       stroke="#f2f2f2"
+       stroke-width="2"
+       id="path9248" />
+    <path
+       d="M 14.3481,20 7.00006,25"
+       stroke="#f2f2f2"
+       stroke-width="2"
+       id="path9250" />
+    <path
+       d="m 17.5,9 h -6 l 3,-4.5 z"
+       fill="#f2f2f2"
+       id="path9252" />
+    <path
+       d="m 24.3985,24.7968 0.6271,-5.9671 4.1618,3.4539 z"
+       fill="#f2f2f2"
+       id="path9254" />
+    <path
+       d="M 5.90908,22.0001 9.17691,27.0321 4.7074,26.5184 Z"
+       fill="#f2f2f2"
+       id="path9256" />
+  </g>
+  <defs
+     id="defs9263">
+    <clipPath
+       id="clip0">
+      <rect
+         width="32"
+         height="32"
+         fill="#4d4d4d"
+         id="rect9260"
+         x="0"
+         y="0" />
+    </clipPath>
+  </defs>
+</svg>

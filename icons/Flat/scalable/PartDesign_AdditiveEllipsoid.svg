@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="48"
+   height="48"
+   viewBox="0 0 32 32"
+   fill="none"
+   version="1.1"
+   id="svg2494"
+   sodipodi:docname="PartDesign_AdditiveEllipsoid.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview8"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#505050"
+     showgrid="false"
+     showguides="true"
+     inkscape:zoom="16.145605"
+     inkscape:cx="22.606771"
+     inkscape:cy="30.875275"
+     inkscape:window-width="2560"
+     inkscape:window-height="1363"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2494">
+    <sodipodi:guide
+       position="0.78452723,30.678691"
+       orientation="0,-1"
+       id="guide291"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="1.3419545,30.678691"
+       orientation="1,0"
+       id="guide293"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="30.637853,35.631842"
+       orientation="1,0"
+       id="guide295"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="-20.108672,1.3208562"
+       orientation="0,-1"
+       id="guide297"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <g
+     clip-path="url(#clip0)"
+     id="g2487"
+     transform="matrix(1.2723041,0,0,1.2723041,-4.3670887,-4.8910845)"
+     style="fill:#37b24d;fill-opacity:1;stroke-width:1.57195123;stroke-dasharray:none">
+    <ellipse
+       cx="16.000099"
+       cy="16.444401"
+       rx="13"
+       ry="8.4444399"
+       transform="rotate(-45,16.0001,16.4444)"
+       stroke="#f2f2f2"
+       stroke-width="2"
+       id="ellipse2485"
+       style="fill:#37b24d;fill-opacity:1;stroke-width:1.57195123;stroke-dasharray:none" />
+  </g>
+  <defs
+     id="defs2492">
+    <clipPath
+       id="clip0">
+      <rect
+         width="32"
+         height="32"
+         fill="#4d4d4d"
+         id="rect2489"
+         x="0"
+         y="0" />
+    </clipPath>
+  </defs>
+  <path
+     style="fill:none;fill-opacity:0.262195;fill-rule:evenodd;stroke:#f1f3f5;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:0.1, 1.5;stroke-dashoffset:0;paint-order:markers fill stroke"
+     d="M 4.294391,27.726707 C 9.1482091,29.915845 30.935212,11.232248 27.685417,4.3356814"
+     id="path341"
+     sodipodi:nodetypes="cc" />
+  <path
+     style="fill:none;fill-opacity:0.262195;fill-rule:evenodd;stroke:#f1f3f5;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:0.1, 1.5;stroke-dashoffset:0;paint-order:markers fill stroke"
+     d="M 8.3928227,8.4341134 C 7.1005104,15.241939 17.502907,28.082854 23.586985,23.628276"
+     id="path1054"
+     sodipodi:nodetypes="cc" />
+  <rect
+     style="fill:#f1f3f5;fill-rule:evenodd;stroke:none;stroke-width:2.89635;stroke-linecap:round;stroke-dashoffset:7.5;paint-order:markers fill stroke"
+     id="rect375"
+     width="10"
+     height="10"
+     x="21.999998"
+     y="22"
+     rx="2.6666665"
+     ry="2.6666665" />
+  <rect
+     style="fill:#495057;fill-rule:evenodd;stroke:none;stroke-width:1.26098;stroke-linecap:round;stroke-dashoffset:7.5;paint-order:markers fill stroke"
+     id="rect984"
+     width="6.6666665"
+     height="2"
+     x="23.666662"
+     y="26" />
+  <rect
+     style="fill:#495057;fill-rule:evenodd;stroke:none;stroke-width:1.26098;stroke-linecap:round;stroke-dashoffset:7.5;paint-order:markers fill stroke"
+     id="rect984-3"
+     width="6.6666665"
+     height="2"
+     x="23.666668"
+     y="-27.999996"
+     transform="rotate(90)" />
+</svg>

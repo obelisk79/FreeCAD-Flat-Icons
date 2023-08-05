@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="48"
+   height="48"
+   viewBox="0 0 48 48"
+   version="1.1"
+   id="svg247"
+   inkscape:export-filename="PartDesign_AdditivePrism.svg"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   sodipodi:docname="PartDesign_Subtractive_Prism.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview249"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="px"
+     showgrid="false"
+     showguides="true"
+     inkscape:zoom="22.833333"
+     inkscape:cx="16.642336"
+     inkscape:cy="24.021898"
+     inkscape:window-width="2560"
+     inkscape:window-height="1363"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <sodipodi:guide
+       position="3.840738,45.951606"
+       orientation="0,-1"
+       id="guide368"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="46.05685,39.198309"
+       orientation="1,0"
+       id="guide370"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="1.9971836,38.00768"
+       orientation="1,0"
+       id="guide372"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="16.771223,1.9431503"
+       orientation="0,-1"
+       id="guide374"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <defs
+     id="defs244" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="opacity:1;mix-blend-mode:hard-light;fill:#f03e3e;fill-opacity:1;stroke:#f2f2f2;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       d="M 10.860118,23.97168 3.3407619,44.884585 25.211547,40.940086 44.843602,20.289379 30.492173,3.3209736 11.376122,23.428517 25.211547,40.940086"
+       id="path1744"
+       sodipodi:nodetypes="ccccccc" />
+    <path
+       style="opacity:1;mix-blend-mode:normal;fill:none;fill-opacity:0.8;stroke:#f2f2f2;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:0.15, 2.25;stroke-dashoffset:0;stroke-opacity:0.8;paint-order:markers fill stroke"
+       d="M 21.670883,26.066681 3.1424779,45.08819"
+       id="path1800"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="opacity:1;mix-blend-mode:normal;fill:none;fill-opacity:0.8;stroke:#f2f2f2;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:0.15000001,2.25;stroke-opacity:0.80000001;paint-order:markers fill stroke;stroke-dashoffset:1.65"
+       d="M 30.29389,3.5245776 22.774533,24.437483 44.645319,20.492984"
+       id="path1802" />
+    <path
+       style="mix-blend-mode:normal;fill:none;fill-opacity:1;stroke:#f2f2f2;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       d="M 10.860118,23.97168 3.340762,44.884585 25.211547,40.940086 44.843602,20.289379 30.492173,3.3209738 11.376122,23.428517 25.211547,40.940086"
+       id="path1744-3"
+       sodipodi:nodetypes="ccccccc" />
+    <rect
+       style="fill:#f1f3f5;fill-rule:evenodd;stroke:none;stroke-width:4.34452;stroke-linecap:round;stroke-dashoffset:7.5;paint-order:markers fill stroke"
+       id="rect375"
+       width="15"
+       height="15"
+       x="33"
+       y="33"
+       rx="3.9999998"
+       ry="3.9999998" />
+    <rect
+       style="fill:#495057;fill-rule:evenodd;stroke:none;stroke-width:1.89147;stroke-linecap:round;stroke-dashoffset:7.5;paint-order:markers fill stroke"
+       id="rect984"
+       width="10"
+       height="3"
+       x="35.499996"
+       y="39" />
+  </g>
+</svg>

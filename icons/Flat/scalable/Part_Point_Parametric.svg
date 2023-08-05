@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="48"
+   height="48"
+   viewBox="0 0 32 32"
+   fill="none"
+   version="1.1"
+   id="svg9568"
+   sodipodi:docname="PartDesign_Point.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs9572" />
+  <sodipodi:namedview
+     id="namedview9570"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#505050"
+     showgrid="false"
+     inkscape:zoom="22.833334"
+     inkscape:cx="25.883211"
+     inkscape:cy="23.890511"
+     inkscape:window-width="2560"
+     inkscape:window-height="1369"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg9568"
+     showguides="true">
+    <sodipodi:guide
+       position="16,31.124088"
+       orientation="1,0"
+       id="guide10179"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="-5.6934306,16"
+       orientation="0,-1"
+       id="guide10181"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <circle
+     cx="16.169344"
+     cy="16"
+     r="3"
+     fill="#4d4d4d"
+     stroke="#8AD9FB"
+     stroke-width="2"
+     id="circle9566"
+     style="stroke:#a6e3a1" />
+</svg>
