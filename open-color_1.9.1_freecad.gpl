@@ -1,0 +1,41 @@
+GIMP Palette
+Name: Open Color FreeCAD 1.9.1
+Columns: 0
+#
+248 249 250        gray0
+241 243 245        gray1
+233 236 239        gray2
+222 226 230        gray3
+206 212 218        gray4
+173 181 189        gray5
+134 142 150        gray6
+73 80 87        gray7
+52 58 64        gray8
+33 37 41        gray9
+250 82 82        red6
+240 62 62        red7
+230 73 128        pink6
+214 51 108        pink7
+190 75 219        grape6
+174 62 201        grape7
+121 80 242        violet6
+112 72 232        violet7
+76 110 245        indigo6
+66 99 235        indigo7
+34 139 230        blue6
+28 126 214        blue7
+21 170 191        cyan6
+16 152 173        cyan7
+18 184 134        teal6
+12 166 120        teal7
+64 192 87        green6
+55 178 77        green7
+130 201 30        lime6
+116 184 22        lime7
+252 196 25        yellow5
+250 176 5        yellow6
+245 159 0        yellow7
+255 146 43        orange5
+253 126 20        orange6
+247 103 7        orange7
+
