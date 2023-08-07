@@ -1,6 +1,8 @@
 # FreeCAD-Flat-Icons
 An icon theme for FreeCAD to be applied with the Icon Themes addon.
 
+Forum Thread: https://forum.freecad.org/viewtopic.php?t=80189
+
 ## About
 This set of icons was inspired by the work a user st_phan, found here: https://forum.freecad.org/viewtopic.php?t=46633
 Initially I started by taking the most recent file I could find from st_phan and normalizing the icons and updating the colors used to coincide with the well structured [open-color](https://github.com/yeun/open-color) ui palette. Not only is it well documented along with a published open source license, it also offers a wide gamut of coordinated colors for further 'theming' opportunities with stylesheets and sketcher colors. Ultimately I intend to create both light and dark preference pack and icon sets for FreeCAD using this awesome color schema.
